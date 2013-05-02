@@ -1,0 +1,24 @@
+{
+  "name": "home-automation-preso",
+  "version": "0.0.0",
+  "description": "Home automation presentation given at OpenWest.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clintberry/home-automation-preso.git"
+  },
+  "keywords": [
+    "home",
+    "automation"
+  ],
+  "author": "Clint Berry",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b8340a51ffa2eac3854ec602dc1629ac618dcf0e",
+  "dependencies": {
+    "serialport": "~1.1.0"
+  }
+}

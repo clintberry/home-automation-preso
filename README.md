@@ -13,7 +13,7 @@ __switch.js__ has the code to turn a zwave switch on or off
 https://github.com/adomotic/node-zwave - The node-zwave project I am working on.
 http://adomotic.com - This is my home automation site where I will be posting tutorials and info
 
-### Credits
+### Other good resources
 
 Thanks to [open-zwave](https://code.google.com/p/open-zwave/), an amazing project
 Thanks to [digiwave](http://www.digiwave.dk/en/programming/an-introduction-to-z-wave-programming-in-c/) which had some great getting started posts
