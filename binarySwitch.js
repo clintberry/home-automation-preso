@@ -9,8 +9,6 @@ var serialPort = new SerialPort("/dev/tty.SLAB_USBtoUART", {
 
 var switchId = 0x02;
 
-console.log((0x3d).toString(2))
-
 var switchOn = [
   0x01, 
   0x09, 
