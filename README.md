@@ -4,9 +4,9 @@ This is code snippets and slides for the OpenWest presentation I gave
 
 ### Overview
 
-__slides__ folder has impress.js and html file with slides
-__thermostat.js__ has the code to set the temperature of a zwave thermostat in node.js
-__switch.js__ has the code to turn a zwave switch on or off
+__slides__ folder has impress.js and html file with slides  
+__thermostat.js__ has the code to set the temperature of a zwave thermostat in node.js  
+__switch.js__ has the code to turn a zwave switch on or off  
 
 ### Links
 
