@@ -7,7 +7,7 @@ var serialPort = new SerialPort("/dev/tty.SLAB_USBtoUART", {
 });
 
 var thermostatId = 0x05;
-var temp = 75;
+var temp = 70;
 
 var thermostatSet = [
   0x01, 
